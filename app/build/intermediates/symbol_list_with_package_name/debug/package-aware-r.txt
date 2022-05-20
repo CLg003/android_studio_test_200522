@@ -1197,6 +1197,7 @@ color radiobutton_themeable_attribute_color
 color ripple_material_dark
 color ripple_material_light
 color screenBackground
+color screenBackground2
 color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
@@ -2182,7 +2183,8 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id textview_first
-id textview_second
+id textview_header
+id textview_random
 id time
 id title
 id titleDividerNoCustom
@@ -2422,7 +2424,6 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string first_fragment_label
 string hello_first_fragment
-string hello_second_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2490,6 +2491,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string previous
 string random_button_text
+string random_heading
 string search_menu_title
 string second_fragment_label
 string status_bar_notification_info_overflow

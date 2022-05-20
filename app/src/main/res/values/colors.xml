@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="screenBackground">#2196f3</color>
     <color name="buttonBackground">#bbdefb</color>
+    <color name="screenBackground2">#26c6da</color>
 </resources>
